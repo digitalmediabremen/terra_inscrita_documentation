@@ -1,3 +1,16 @@
+# website documentation
+
+## information    
+
+- Title: Terra Inscrita: Topographic Scars \ Sedimenting Memories    
+- Category: Master Thesis    
+- Student/s: Alberto Salgado Harres
+- Course Title: Master Thesis
+- Lecturer/s: Dr. Petra Klusemeyer, Prof. Ralf Baecker, Luiz Zanotello
+- Year: WS 2024/25
+
+## text + images + videos 
+
 _Terra Inscrita_ is an artistic project conducted between Bremen, Germany, and Vale do Cuiabá, Brazil. It seeks to address personal and collective trauma through a material-centered artistic practice. The project stems from personal memories of the floods and landslides of January 2011 in the mountainous region of Rio de Janeiro, Brazil—an event that left visible scars on the mountains and rivers, as well as on those who inhabit the region, including myself.
 
 ![](/images/Photo_2011_1.jpg)
