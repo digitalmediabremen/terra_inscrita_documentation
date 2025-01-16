@@ -31,7 +31,7 @@ As the first step in this research, 5kg of clay was locally extracted from Vale 
 
 In an attempt to use clay as a writing medium, a kinetic installation was developed. This machine uses a small magnet to traverse a pool of clay sediments and water, guided by a stronger magnet positioned beneath the pool. The movement of the magnet is controlled by a CNC-like mechanism, which operates along an X-Y axis, enabling precise and dynamic interactions with the material.
 
-![](/images/floodlines_v2_0_v45.png)
+![](/images/floodlines v2.0 v45 333ffffasdasd.png)
 
 ### Alte Pathologie: Studies of Change
 
