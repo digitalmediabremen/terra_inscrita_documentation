@@ -57,11 +57,11 @@ To translate these topographic traces into machine movements, a path-finding alg
 
 This research also sought to listen to other members of the community still living there, traversing through differences to find what could be shared. Through a collaborative process with a local community therapy group, an affective mapping was created with participants, drawing from their personal memories and experiences of the 2011 floods.
 
+The mapping was made using nine sheets of blotting paper that had been sitting in my grandmother’s drawers for decades, including during the time of the flood. These papers are present here as material witnesses of some kind. The resulting map reflects our collective affective relationship to the Cuiabá River basin, the memories flowing through it, and the hope for a community still somewhat disconnected even 13 years later.
+
 ![](/images/IMG_20240827_092644.jpg)  
 
 ![](/images/IMG_20240827_145736_2.jpg)
-
-The mapping was made using nine sheets of blotting paper that had been sitting in my grandmother’s drawers for decades, including during the time of the flood. These papers are present here as material witnesses of some kind. The resulting map reflects our collective affective relationship to the Cuiabá River basin, the memories flowing through it, and the hope for a community still somewhat disconnected even 13 years later.
 
 ### Weaving Memories
 
@@ -71,25 +71,24 @@ The mapping was made using nine sheets of blotting paper that had been sitting i
 
 To share this research process with those still living along the Cuiabá River, an exhibition took place in early 2024 at Estação Jaqueira, a local community space focused on art and education, previously functioning as a farm-hotel that was destroyed by the floods of 2011.
 
+Unlike its first iteration at Alte Pathologie, this version incorporated satellite-derived visuals of the Cuiabá River basin. Emerging from the field of clay and water were traces of the basin itself, visualized through the machinic gesture.
+
+The exhibition became a space for dialogue, connecting local people from different backgrounds through the common language of the landscape and its shared memories. It was an attempt to resist the constant process of forgetting one’s own history, a characteristic of Brazilian society and much of the colonized world.
+
+
 ![](/images/Terra_Inscrita-000084.jpg)  
 
 ![](/images/Osimo_Treaty_1.jpg)
 
-Unlike its first iteration at Alte Pathologie, this version incorporated satellite-derived visuals of the Cuiabá River basin. Emerging from the field of clay and water were traces of the basin itself, visualized through the machinic gesture.
-
 ![](/images/QJ3A3905.jpg)
-
-The exhibition became a space for dialogue, connecting local people from different backgrounds through the common language of the landscape and its shared memories. It was an attempt to resist the constant process of forgetting one’s own history, a characteristic of Brazilian society and much of the colonized world.
 
 ![](/images/WhatsApp_Image_2024_09_01.png)
 
 ### A Transposition
 
-The final stage of this project was to bring the exhibition back to Bremen, now incorporating all the elements that had emerged during the research conducted back in Brazil.
+The final stage of this project was to bring the exhibition back to Bremen, now incorporating all the elements that had emerged during the research conducted back in Brazil. The layering of these cartographies, far removed from their original context, became a way to explore this research as a potential methodology. It reflects on how an artistic practice grounded in material agency can contribute to addressing personal and collective trauma in the aftermath of environmental disasters—an increasingly urgent global reality.
 
 ![](/images/P1100275.jpg)
-
-The layering of these cartographies, far removed from their original context, became a way to explore this research as a potential methodology. It reflects on how an artistic practice grounded in material agency can contribute to addressing personal and collective trauma in the aftermath of environmental disasters—an increasingly urgent global reality.
 
 ![](/images/P1133428.jpg)  
 
