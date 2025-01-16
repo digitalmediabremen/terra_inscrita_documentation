@@ -11,7 +11,7 @@
 
 ## text + images + videos 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1038697430?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Terra Inscrita - Topographic Scars \ Sedimenting Memories"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+[Video](https://vimeo.com/1038697430)
 
 _Terra Inscrita_ is an artistic project conducted between Bremen, Germany, and Vale do Cuiabá, Brazil. It seeks to address personal and collective trauma through a material-centered artistic practice. The project stems from personal memories of the floods and landslides of January 2011 in the mountainous region of Rio de Janeiro, Brazil—an event that left visible scars on the mountains and rivers, as well as on those who inhabit the region, including myself.
 
@@ -35,7 +35,7 @@ In an attempt to use clay as a writing medium, a kinetic installation was develo
 
 ![](/images/floodlines v2.0 v45 333ffffasdasd.png)
 
-### Alte Pathologie: Studies of Change
+### Studies of Change
 
 The first prototype of this machine was shown at the exhibition [Studies of Change](https://www.hfk-bremen.de/de/pressemitteilungen/hfk-ausstellung-in-der-alten-pathologie/83#:~:text=Die%20Ausstellung%20%E2%80%9EStudies%20of%20Change,sozialen%2C%20%C3%B6kologischen%20und%20politischen%20Fragestellungen.) at Alte Pathologie. Still uncovering the direction of the research, at this stage, the installation was an abstract exploration of materiality, focusing on the dynamic relationship between clay sediments and water.
 
